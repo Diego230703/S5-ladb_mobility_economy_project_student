@@ -2,12 +2,12 @@
 
 Este repositorio contiene el análisis de datos desarrollado para evaluar cómo la movilidad urbana (congestión y tiempos de viaje) se relaciona con la productividad económica (PIB per cápita) en las principales ciudades latinoamericanas.
 
-El proyecto combina fuentes de datos de **TomTom Traffic Index** y **OECD Cities Economy**, integrando procesos de limpieza de datos, estandarización de formatos, unión de tablas (*inner join*) y visualización de distribuciones y outliers para la toma de decisiones estratégicas[cite: 11].
+El proyecto combina fuentes de datos de **TomTom Traffic Index** y **OECD Cities Economy**, integrando procesos de limpieza de datos, estandarización de formatos, unión de tablas (*inner join*) y visualización de distribuciones y outliers para la toma de decisiones estratégicas [cite: 11].
 
 ## 📂 Contenido del repositorio
 
 - `notebooks/`
-  → Contiene el Jupyter Notebook principal con la carga, limpieza, EDA, uniones y resúmenes ejecutivos.
+  → Contiene el Jupyter Notebook principal con la carga, la limpieza, el EDA, las uniones y los resúmenes ejecutivos.
 - `ladb_mobility_economy_2024_clean.csv`
   → Dataset final limpio y consolidado listo para análisis o tableros de visualización.
 
@@ -15,7 +15,7 @@ El proyecto combina fuentes de datos de **TomTom Traffic Index** y **OECD Cities
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tb5gkOJXsKlWYLJH9ebVOnOFA96EoGVJ?usp=sharing)
 
 O:
 
